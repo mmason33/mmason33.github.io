@@ -1,5 +1,7 @@
 # Michael Mason Full Stack Developer
 
+[Who wants to be a Millionaire Trivia Game - JS and jQuery - JS Objects](https://mmason33.github.io/Trivia)
+
 [HangmanJS - Vanilla JavaScript Hangman game](https://mmason33.github.io/HangmanJS/)
 
 [JS BeatMaker - Vanilla JavaScript beat kit application](https://mmason33.github.io/JSbeatMaker/)
