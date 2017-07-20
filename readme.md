@@ -1,5 +1,7 @@
 # Michael Mason Full Stack Developer
 
+[GIF Search - Using the giphy.com API](https://mmason33.github.io/GIPHY-API) 
+
 [Who wants to be a Millionaire Trivia Game - JS and jQuery - JS Objects](https://mmason33.github.io/Trivia)
 
 [HangmanJS - Vanilla JavaScript Hangman game](https://mmason33.github.io/HangmanJS/)
