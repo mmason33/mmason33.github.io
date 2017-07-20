@@ -1,4 +1,6 @@
-# Michael Mason Full Stack Developer
+# Michael Mason 
+
+## Full Stack Developer
 
 [GIF Search - Using the giphy.com API](https://mmason33.github.io/GIPHY-API) 
 
