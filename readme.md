@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-[Let's Meet - an application using JavaScript and Google Firebase](https://mmason33.github.io/MeetUpV2/)
+[Let's Meet - an application using JavaScript and Google Firebase](https://mmason33.github.io/LetsMeet/)
 
 [New York Times Seach - Using the NYTimes API](https://mmason33.github.io/NewYorkTimes/)
 
