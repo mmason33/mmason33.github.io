@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-[Multipart Asset Validation Demo - Repo is public](https://github.com/mmason33/multipart-asset-validation-middleware)
+[Multipart Asset Validation](https://github.com/mmason33/multipart-asset-validation-middleware)
 
 [DotMatrix.js](https://mmason33.github.io/dot-matrix/)
 
